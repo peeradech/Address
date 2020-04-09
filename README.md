@@ -15,7 +15,7 @@ After importing the module into your application
 **Constants**
 - FileDataLocation is file of location for import data 
 
-You can store *(Province/District/Sub District/Postcode)* data with **SNP_Initiate_Button** in your application with 2 step
+You can store data *(Province/District/Sub District/Postcode)* with **SNP_Initiate_Button** in your application with 2 step
 1. Initiate excel template
 2. Initiate data
 
