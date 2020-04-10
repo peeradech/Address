@@ -1,8 +1,10 @@
 # Address
-This Address module you to base location of Thailand.
+This Address module you to Province, District, Sub District and Postcode.
 
 ## Description
-This module have to 4 entity is Province, District, Sub District and Postcode
+If you need an address based on Thailand You can download this module to use. There are 4 Entities in this module, which are province, district, sub-district and postal code.
+
+Within this module, there is a function to easily prepare information for provinces, districts, sub-districts and postal codes. By pressing the **Initiate data** button, the data is extracted from an excel file located in the folder */resource/address/data/address.xls*. If you want to change the information, you can do so by editing the address.xls.
 
 ## Dependencies
 **Mendix modules**
